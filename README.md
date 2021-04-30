@@ -2,9 +2,9 @@
 
 #### I'm a Web Developer, Software Engineer, and Programmer!!
 
-- 🧑🏻‍💻  I’m currently working on ReactJs Web apps 
-- 🧩  I’m looking to learn more about NodeJS and MongoDB
-- 💻  I created my portfolio website : [PortfolioWebsite][website]!
+- 🧑🏻‍💻  I am currently working on ReactJs Web apps 
+- 🧩  I am looking forward to learn more about NodeJS and MongoDB
+- 💻  Here's my portfolio website : [PortfolioWebsite][website]!
 - ⚡  Fun fact: I love to code c++ and to create react apps
 
 #### Connect with me:
@@ -36,3 +36,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatjalan&layout=compact)](https://github.com/akshatjalan/github-readme-stats)
 
+[website]: https://akshatjalan/github.io/AkshatJalan
