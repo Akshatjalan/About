@@ -30,7 +30,7 @@
 
 ### GitHub Stats
 
-<img align="right" alt="Akshat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=akshatjalan&show_icons=true&hide_border=true" />
+<img align="center" alt="Akshat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=akshatjalan&show_icons=true&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatjalan&layout=compact)](https://github.com/akshatjalan/github-readme-stats)
 
