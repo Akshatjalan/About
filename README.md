@@ -2,10 +2,10 @@
 
 ### I'm a Web/App Developer, Software Engineer, and Programmer!!
 
-- 🧑🏻‍💻  I am currently working on ReactJs Web apps 
+- 🧑🏻‍💻  I am currently working on ReactJs Web apps and React Native android/ios Apps
 - 🧩  I am looking forward to learn more about NodeJS and MongoDB
 - 💻  Here's my portfolio website : [PortfolioWebsite][website]!
-- ⚡  Fun fact: I love to code c++ and to create react apps
+- ⚡  Fun fact: I love to code c++ and to create react applications
 
 ### Connect with me:
 
