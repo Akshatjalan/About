@@ -1,20 +1,23 @@
-### Hi there, I'm Akshat Jalan 👋
+### <h1 align="center">Hi 👋, I'm Akshat</h1>
 
-### I'm a Web/App Developer, Software Engineer, and Programmer!!
+### <h3 align="center">A Web/App Developer, Software Engineer, and Programmer!!</h3><br>
 
-- 🧑🏻‍💻  I am currently working on ReactJs Web apps and React Native android/ios Apps
-- 🧩  I am looking forward to learn more about NodeJS and MongoDB
-- 💻  Here's my portfolio website : [PortfolioWebsite][website]!
-- ⚡  Fun fact: I love to code c++ and to create react applications
+- I’m currently learning more about NodeJS and MongoDB
+- Experienced with ReactJs Web Apps and React Native android/ios App Development
+- All of my projects are available at my portfolio website : [PortfolioWebsite][website]!
+- Fun fact I love to make Websites and code React Apps
+
 
 ### Connect with me:
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-jalan/)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/akshatxjalan/)
+[![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AkshatJalan13)
+
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+<p><a href="https://open.spotify.com/user/niveshbirangal" rel=""><img src="https://camo.githubusercontent.com/4f138a9030f9b29e88a29a8df75a610ee088411f72b1d75de42dd28fb8b67d43/68747470733a2f2f73706f746966796e6f77706c6179696e672e76657263656c2e6170702f6170692f73706f746966792d706c6179696e67" alt="Spotify Playing" width="350" data-canonical-src="https://spotifynowplaying.vercel.app/api/spotify-playing" style="max-width:100%;"></a></p>
 
 
 ### Languages and Tools:
@@ -30,8 +33,10 @@
 
 ### GitHub Stats
 
-<img align="center" alt="Akshat's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=akshatjalan&show_icons=true&hide_border=true" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=akshatjalan&show_icons=true&locale=en" alt="akshatjalan" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatjalan&layout=compact)](https://github.com/akshatjalan/github-readme-stats)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshatjalan&show_icons=true&locale=en&layout=compact" alt="akshatjalan" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatjalan&" alt="akshatjalan" /></p>
 
 [website]: https://akshatjalan.github.io/akshat/
