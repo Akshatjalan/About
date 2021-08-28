@@ -2,7 +2,7 @@
 
 ### <h3 align="center">A Web/App Developer, Software Engineer, and Programmer!!</h3><br>
 
-- I’m experienced with **ReactJS** Web Apps and **React Native** android/ios App Development
+- I’m experienced with **ReactJS** Web Apps and **React Native** android/iOS App Development
 - Currently learning more about **NodeJS** and **MongoDB**
 - All of my projects are available at my portfolio website: **[PortfolioWebsite][website]**
 - Fun fact I love to make Websites and code React Apps
@@ -37,7 +37,7 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshatjalan&show_icons=true&locale=en&layout=compact" alt="akshatjalan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatjalan&" alt="akshatjalan" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=akshatjalan&" alt="akshatjalan" /></p>
 
 [website]: https://akshatjalan.github.io/akshat/
 [e-mail]: mailto:akshatjalanmain@gmail.com?subject=[GitHub]
