@@ -2,8 +2,8 @@
 
 ### <h3 align="center">A Web/App Developer, Software Engineer, and Programmer!!</h3><br>
 
-- I’m currently learning more about **NodeJS** and **MongoDB**
-- Experienced with **ReactJS** Web Apps and **React Native** android/ios App Development
+- I’m experienced with **ReactJS** Web Apps and **React Native** android/ios App Development
+- Currently learning more about **NodeJS** and **MongoDB**
 - All of my projects are available at my portfolio website: **[PortfolioWebsite][website]**
 - Fun fact I love to make Websites and code React Apps
 - How to reach me: [e-mail]
