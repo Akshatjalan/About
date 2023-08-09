@@ -1,4 +1,4 @@
-### <h1 align="center">Hi I'm **Akshat Jalan** </h1>
+### <h1 align="center">Hi, I'm **Akshat Jalan** </h1>
 
 ### <h3 align="center">A Software Engineer, Web Developer and Programmer!! **[DevFolio][website]**</h3><br>
 
