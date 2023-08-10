@@ -1,6 +1,6 @@
 ### <h1 align="center">Hi, I'm **Akshat Jalan** </h1>
 
-### <h3 align="center">A Software Engineer, Web Developer and Programmer!! **[DevFolio][website]**</h3><br>
+### <h3 align="center">A Software Engineer , Web Developer and Programmer!! **[DevFolio][website]**</h3><br>
 
 - Fun fact I love to make Websites and code React Apps
 - I’m experienced with **ReactJS** Web Apps and **React Native** android/iOS App Development
