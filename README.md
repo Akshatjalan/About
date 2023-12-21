@@ -49,4 +49,4 @@
 </p>
 
 
-[website]: https://akshatjalan.github.io/akshat/
+[website]: https://akshatjalan.github.io/devfolio/
